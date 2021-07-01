@@ -5,7 +5,7 @@ name: 🚀 Deploy site to github pages
 on:
   push:
     branches:
-      - master
+      - main
 
 jobs:
   build-and-deploy:
