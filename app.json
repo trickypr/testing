@@ -1,4 +1,1 @@
-{
-  "pages": ["index"],
-  "out": "dist"
-}
+{"pages":["index"],"out":"build","root":"/testing,r,g/"}
